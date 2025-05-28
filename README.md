@@ -1,43 +1,59 @@
-Portfolio Website
-Welcome to my personal portfolio website repository! This project showcases my skills, projects, and contact information in a clean, modern, and mobile-responsive design.
+# Portfolio Website
 
-About
-This portfolio website is designed to present who I am as a developer and student, highlight my technical skills, and share my projects and contact details with potential employers, collaborators, and friends.
+Welcome to my personal portfolio! This website showcases my skills, projects, and contact details in a clean, modern, and mobile-responsive design.
 
-The site is built with:
+---
 
-HTML5 and CSS3 for structure and styling
+## 🚀 Features
 
-Boxicons for crisp, scalable social media and contact icons
+- 👨‍💻 **About Me Section** — A brief introduction and professional summary  
+- 🛠 **Skills Showcase** — Display of programming languages and tools with icons  
+- 📂 **Projects Gallery** — Links to my GitHub projects with images  
+- 📞 **Contact Section** — Email and social media contact info  
+- 💡 **Responsive Design** — Optimized for all screen sizes including mobile devices  
 
-Fully mobile responsive layout for seamless viewing on phones, tablets, and desktops
+---
+Portfolio/
+├── index.html           # Main HTML file (your portfolio page)
+├── style.css            # CSS styles for the website
+├── script.js            # JavaScript file (optional, if you use any JS)
+├── assets/              # Folder for images, icons, and other media
+│   ├── IMG_20230302_15130111.jpg
+│   ├── python.png
+│   ├── java.png
+│   ├── letter-c.png
+│   ├── html.png
+│   ├── css-3.png
+│   ├── sql-server.png
+│   ├── loginpage.jpeg
+│   ├── CALCULATOR.PNG
+│   └── clgtips_img.jpg
+└── README.md            # Project documentation file
 
-Features
-Clean navigation bar with links to Home, About, Skills, Projects, and Contact sections.
 
-A visually appealing home section with a personal introduction, profile image, and social media links (GitHub, LinkedIn, Email).
+## 🛠 Tech Stack
 
-About section with a brief professional summary.
+- HTML5  
+- CSS3  
+- JavaScript (if applicable)  
+- [Boxicons](https://boxicons.com/) for icons  
+- Git & GitHub Pages for version control and deployment  
 
-Skills section displaying key programming languages and tools via icons.
+---
 
-Projects section linking to my GitHub repositories with project images.
+## 📦 How to Run Locally
 
-Contact section with my email for easy communication.
+```bash
+# Clone the repository
+git clone https://github.com/SandhyaMadhunagula/Portfolio.git
 
-Mobile-first responsive design to ensure the website looks great on any device.
+# Navigate into the project folder
+cd Portfolio
 
-Downloadable Resume link for quick access.
+Feel free to connect with me via:
 
-How to use
-Clone or download this repository to your local machine.
+📧 Email: madhunagulasandhya5@gmail.com
 
-Open index.html in any modern browser to view the site.
+🌐 LinkedIn: https://www.linkedin.com/in/sandhyamadhunagula/
 
-Feel free to customize with your own details, skills, projects, and images.
-
-Deployment
-This site is easily deployable on GitHub Pages or other static site hosting services like Netlify or Vercel.
-
-Contact
-If you want to get in touch, feel free to reach me via email or check out my GitHub and LinkedIn profiles linked in the site.
+💻 GitHub: https://github.com/SandhyaMadhunagula
