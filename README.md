@@ -14,22 +14,36 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 
 ---
 Portfolio/
-├── index.html           # Main HTML file (your portfolio page)
-├── style.css            # CSS styles for the website
-├── script.js            # JavaScript file (optional, if you use any JS)
-├── assets/              # Folder for images, icons, and other media
-│   ├── IMG_20230302_15130111.jpg
-│   ├── python.png
-│   ├── java.png
-│   ├── letter-c.png
-│   ├── html.png
-│   ├── css-3.png
-│   ├── sql-server.png
-│   ├── loginpage.jpeg
-│   ├── CALCULATOR.PNG
-│   └── clgtips_img.jpg
-└── README.md            # Project documentation file
+├── index.html  
 
+
+├── style.css            
+
+├── script.js            
+
+├── assets/             
+
+│   ├── IMG_20230302_15130111.jpg
+
+│   ├── python.png
+
+│   ├── java.png
+
+│   ├── letter-c.png
+
+│   ├── html.png
+
+│   ├── css-3.png
+
+│   ├── sql-server.png
+
+│   ├── loginpage.jpeg
+
+│   ├── CALCULATOR.PNG
+
+│   └── clgtips_img.jpg
+
+└── README.md           
 
 ## 🛠 Tech Stack
 
